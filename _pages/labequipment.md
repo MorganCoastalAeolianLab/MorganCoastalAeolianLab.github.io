@@ -15,37 +15,38 @@ Through faculty collaborations, students working in the JP Morgan Lab also have 
 <br> <br>
 
 *List of all Field and Laboratory Equipment:*
-  - 2 Emlid Real-Time Kinematic Global Positioning System (RTK GPS) devices
-  - 2 CST-Berger Total Stations
-  - CST-Berger & Sokkia Engineer Levels
-  - Campbell Scientific CR1000 & CR800 Dataloggers
-    - Solar Panel & Battery
-  - 3 HOBO U12 Micro-Dataloggers
-  - 5 HOBO U20L-04 Water Level/Temp Sensors
-  - 16 RM Young 3-Cup Anemometers
-  - 10 MetOne 014 Mini 3-Cup Anemometers
-  - RM Young 81000 3D Sonic Anemometer
-  - 2 Gill WindSonic 2D Sonic Anemometers
-  - 4 Calypso 2D Sonic Anemometers
-  - MetOne 024A Wind Vane
-  - MetOne 6” Rain Gauge
-  - MetOne Temp, Humidity, & Barometric Pressure Sensor
-  - Delta-T Soil Temp/Moisture Sensor w/ Handheld Moisture Meter
-  - 2 Vegetronix Soil Moisture Sensors
-  - Kestrel 4500 Weather Meter w/ Portable Vane Mount
-  - 6 Wenglor Particle Counters
-  - Nortek Vectrino Velocimeter Current Meter Sensor
-  - Fisher Scientific Drying Oven 
-  - Retsch Sonic Sieve Shaker
-  - 22 U.S. Standard 8” Sieves (No. 10-200, Pan & Lid)
-  - DJI Phantom 4 Pro Unmanned Aerial Vehicles (UAVs)
-  - Sentera IR camera [attached to Phantom 4 Pro UAV]
-  - AgiSoft Metashape Structure for Motion Software
-  - Pix4D Mapper Structure for Motion Software
-  - Several Arduino & Raspberry Pi boards
-  - 2 micro-LiDAR sensors
-  - Nikon IR camera
-  - Panasonic Weatherproof Field Camera
-  - Microsoft Surface Pro 4 -- Field Computer
-  - Dell lab computer w/ full suite of software
+
+- 2 Emlid Real-Time Kinematic Global Positioning System (RTK GPS) devices
+- 2 CST-Berger Total Stations
+- CST-Berger & Sokkia Engineer Levels
+- Campbell Scientific CR1000 & CR800 Dataloggers
+  - Solar Panel & Battery
+- 3 HOBO U12 Micro-Dataloggers
+- 5 HOBO U20L-04 Water Level/Temp Sensors
+- 16 RM Young 3-Cup Anemometers
+- 10 MetOne 014 Mini 3-Cup Anemometers
+- RM Young 81000 3D Sonic Anemometer
+- 2 Gill WindSonic 2D Sonic Anemometers
+- 4 Calypso 2D Sonic Anemometers
+- MetOne 024A Wind Vane
+- MetOne 6” Rain Gauge
+- MetOne Temp, Humidity, & Barometric Pressure Sensor
+- Delta-T Soil Temp/Moisture Sensor w/ Handheld Moisture Meter
+- 2 Vegetronix Soil Moisture Sensors
+- Kestrel 4500 Weather Meter w/ Portable Vane Mount
+- 6 Wenglor Particle Counters
+- Nortek Vectrino Velocimeter Current Meter Sensor
+- Fisher Scientific Drying Oven 
+- Retsch Sonic Sieve Shaker
+- 22 U.S. Standard 8” Sieves (No. 10-200, Pan & Lid)
+- DJI Phantom 4 Pro Unmanned Aerial Vehicles (UAVs)
+- Sentera IR camera [attached to Phantom 4 Pro UAV]
+- AgiSoft Metashape Structure for Motion Software
+- Pix4D Mapper Structure for Motion Software
+- Several Arduino & Raspberry Pi boards
+- 2 micro-LiDAR sensors
+- Nikon IR camera
+- Panasonic Weatherproof Field Camera
+- Microsoft Surface Pro 4 -- Field Computer
+- Dell lab computer w/ full suite of software
 
