@@ -3,11 +3,7 @@ layout: archive
 title: "Lab Equipment"
 permalink: /lab-equipment/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 Research conducted by the Morgan Lab is largely through field-based projects, including acquisition and analysis of coastal morphology, sediments, and other physical/environmental parameters. 
 
