@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lab Equipment"
-permalink: /Lab Equipment/
+permalink: /lab-equipment/
 author_profile: true
 redirect_from:
   - /resume
