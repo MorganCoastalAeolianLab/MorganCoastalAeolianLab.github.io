@@ -12,7 +12,7 @@ title                    : "JP Morgan Coastal & Aeolian Lab"
 title_separator          : "-"
 name                     : # 
 description              : #
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : MorganCoastalAeolianLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MorganCoastalAeolianLab.github.io"
 
