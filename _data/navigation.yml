@@ -18,10 +18,7 @@ main:
     url: /portfolio/
         
   - title: "Lab Equipment"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+    url: /lab-equipment/
     
   - title: "Guide"
     url: /markdown/
