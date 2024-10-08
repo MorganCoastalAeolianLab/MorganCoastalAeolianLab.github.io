@@ -1,6 +1,6 @@
 ---
 title: "Research"
-url: /publications/
+url: /Research/
 ---
 
 ### Projects:
