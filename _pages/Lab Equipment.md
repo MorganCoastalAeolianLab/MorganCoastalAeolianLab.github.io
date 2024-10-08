@@ -44,7 +44,7 @@ Through faculty collaborations, students working in the JP Morgan Lab also have 
   - Retsch Sonic Sieve Shaker 
   - 22 U.S. Standard 8” Sieves (No. 10-200, Pan & Lid)
   - DJI Phantom 4 Pro Unmanned Aerial Vehicles (UAVs) -- Drones
-    - Sentera IR camera [attached to Phantom 4 Pro UAV]
+  - Sentera IR camera [attached to Phantom 4 Pro UAV]
   - AgiSoft Metashape Structure for Motion Software
   - Pix4D Mapper Structure for Motion Software
   - Several Arduino & Raspberry Pi boards
