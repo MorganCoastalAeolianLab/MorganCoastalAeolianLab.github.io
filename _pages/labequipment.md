@@ -1,4 +1,3 @@
-
 ---
 permalink: /lab-equipment/
 title: "Lab Equipment"
