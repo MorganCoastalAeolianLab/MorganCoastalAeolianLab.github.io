@@ -10,16 +10,16 @@ Beach Wrack
 
 
 ### Publications:
-*++ indicates UWF Student* 
+*+ indicates UWF Student* 
 
-- Schmutz, P.P., T. Briggs++, and S. Seals. (In Review). Lagging Behind: Impact of Non-native Gravel Within a Coastal Dune System. Journal of Coastal Research.
-- Williams, M.++, and P.P. Schmutz (In Review). The Spatial-temporal Variability of Sea Turtle Nest Sites on Pensacola Beach and Gulf Islands National Seashore, FL. Journal for Nature Conservation
+- Schmutz, P.P., T. Briggs+, and S. Seals. (In Review). Lagging Behind: Impact of Non-native Gravel Within a Coastal Dune System. Journal of Coastal Research.
+- Williams, M.+, and P.P. Schmutz (In Review). The Spatial-temporal Variability of Sea Turtle Nest Sites on Pensacola Beach and Gulf Islands National Seashore, FL. Journal for Nature Conservation
 - Corkran, R., A.E. Potter, and P.P. Schmutz. 2023. The Impacts of Climate Change on Coastal Georgia Heritage Tourism Sites. Southeastern Geographer. 63(1), 36-53, 10.1353/sgo.2023.0004
-- Nelson, S.A.++, and P.P. Schmutz. 2021. The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture. Geomorphology, 391, 107895. DOI: 10.1016/j.geomorph.2021.107895
-- Harris, E.++, P.P. Schmutz, C. Jackson++, M. Anaya++, M. Johnson++, and G. Chapman++. 2020. Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida. Southeastern Geographer. 60(4): 3039-331. DOI: 10.1353/sgo.2020.0026
+- Nelson, S.A.+, and P.P. Schmutz. 2021. The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture. Geomorphology, 391, 107895. DOI: 10.1016/j.geomorph.2021.107895
+- Harris, E.+, P.P. Schmutz, C. Jackson+, M. Anaya+, M. Johnson+, and G. Chapman+. 2020. Beach User Perception on the Economic and Ecological Importance of Sand Dunes at Pensacola Beach, Florida. Southeastern Geographer. 60(4): 3039-331. DOI: 10.1353/sgo.2020.0026
 - Gunn, A., P.P. Schmutz, M. Wanker, D.A. Edmonds, R.C. Ewing, and D.J. Jerolmack. 2020. Macroscopic flow disequilibrium over aeolian dune fields. Geophysical Research Letters, 47, e2020GL088773. DOI: 10.1029/2020GL088773
-- Jackson, C.++, P.P. Schmutz, M. Harwell, and C. Littles. 2019. The ecosystem service of property protection and exposure to environmental stressors in the Gulf of Mexico. Journal of Ocean and Coastal Management. DOI: 10.1016/j.ocecoaman.2019.105017
-- Schmutz, P.P., T. Briggs++, and P. Tereszkiewicz++. 2019. The utility of an omni-directional photoelectronic sensor device to measure meso-scale variability in aeolian sediment transport activity. Journal of Aeolian Research. DOI: 10.1016/j.aeolia.2018.11.003
+- Jackson, C.+, P.P. Schmutz, M. Harwell, and C. Littles. 2019. The ecosystem service of property protection and exposure to environmental stressors in the Gulf of Mexico. Journal of Ocean and Coastal Management. DOI: 10.1016/j.ocecoaman.2019.105017
+- Schmutz, P.P., T. Briggs+, and P. Tereszkiewicz+. 2019. The utility of an omni-directional photoelectronic sensor device to measure meso-scale variability in aeolian sediment transport activity. Journal of Aeolian Research. DOI: 10.1016/j.aeolia.2018.11.003
 - Schmutz, P.P., and S.L. Namikas. 2018. Measurement and modeling of the spatiotemporal dynamics of beach surface moisture content. Journal of Aeolian Research. 34: 35-48. DOI: 10.1016/j.aeolia.2018.08.001
 - Schmutz P.P., A.E. Potter, and A.E. Modlin. 2017. Aruba, Curacao, and Bonaire, In: Allen, C (Ed.), Landscapes and Landforms of the Lesser Antilles. Springer International Publishing. DOI: 10.1007/978-3-319-55787-8
 - Schmutz, P.P., and S.L. Namikas. 2013. Measurements and Modeling of Moisture Contents Above an Oscillating Water Table: Implications for Beach Surface Moisture Dynamics. Earth Surface Processes and Landforms. 38 (11): 1317–1325. DOI: 10.1002/esp.3418
