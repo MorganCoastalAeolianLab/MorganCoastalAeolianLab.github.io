@@ -1,6 +1,6 @@
 ---
 title: "Research"
-url: /Research/
+permalink: /Research/
 ---
 
 ### Projects:
