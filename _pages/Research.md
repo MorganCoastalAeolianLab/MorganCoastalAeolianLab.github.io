@@ -12,7 +12,7 @@ Beach Wrack
 ### Publications:
 *+ indicates UWF Student* 
 
-- Schmutz, P.P., T. Briggs+, and S. Seals. (In Review). Lagging Behind: Impact of Non-native Gravel Within a Coastal Dune System. Journal of Coastal Research.
+- Schmutz, P.P., T. Briggs+, and S. Seals. (In Review). Lagging Behind: Impact of Non-native Gravel Within a Coastal Dune System. Journal of Aeolian Research.
 - Williams, M.+, and P.P. Schmutz (In Review). The Spatial-temporal Variability of Sea Turtle Nest Sites on Pensacola Beach and Gulf Islands National Seashore, FL. Journal for Nature Conservation
 - Corkran, R., A.E. Potter, and P.P. Schmutz. 2023. The Impacts of Climate Change on Coastal Georgia Heritage Tourism Sites. Southeastern Geographer. 63(1), 36-53, [10.1353/sgo.2023.0004](https://muse.jhu.edu/article/883669)
 - Nelson, S.A.+, and P.P. Schmutz. 2021. The Utility of Using a Near-Infrared (NIR) Camera to Measure Beach Surface Moisture. Geomorphology, 391, 107895. DOI: [10.1016/j.geomorph.2021.107895](https://www.sciencedirect.com/science/article/pii/S0169555X21003032?via%3Dihub)
