@@ -3,7 +3,7 @@ title: "People"
 permalink: /people/
 ---
 
-##Lab Director
+### Lab Director
 Dr. Phillip Schmutz
  
   - Associate Professor & Department Chair
@@ -20,7 +20,7 @@ Dr. Phillip Schmutz
 
 <br>
 
-## Current Morgan Lab Students
+### Current Morgan Lab Students
 **Graduate Students**
 
 - Halie Wetherington
@@ -38,7 +38,7 @@ Dr. Phillip Schmutz
 
 <br>
 
-## Morgan Lab Alumni
+### Morgan Lab Alumni
 **Graduate Students**
 
 - Divina Cox
