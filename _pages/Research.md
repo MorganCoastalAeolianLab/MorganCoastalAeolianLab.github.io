@@ -25,7 +25,7 @@ Beach Wrack
 - Schmutz, P.P., and S.L. Namikas. 2013. Measurements and Modeling of Moisture Contents Above an Oscillating Water Table: Implications for Beach Surface Moisture Dynamics. Earth Surface Processes and Landforms. 38 (11): 1317–1325. DOI: 10.1002/esp.3418
 - Edwards, B.L., P.P. Schmutz, and S.L. Namikas. 2012. Comparison of surface moisture measurements to depth-integrated moisture measurements on a fine-grained beach. Journal of Coastal Research. DOI: 10.2112/JCOASTRES-D-12-00008.1
 - Schmutz, P.P., and S.L. Namikas. 2011. Utility of Delta-T Theta Probe for Obtaining Moisture Measurements from Beaches. Journal of Coastal Research. 27 (3): 478-485. DOI: 10.2112/08-1130.1
-- Hesp, P.A., P. Schmutz, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio. 2010. The Effect on Coastal Vegetation of Trampling on a Parabolic Dune. Journal of Aeolian Research. 2 (2): 105-111. DOI: 10.1016/j.aeolia.2010.03.001
+- Hesp, P.A., P. Schmutz, M.L. Martinez, L. Driskill, R. Orgera, K. Renken, N.A.R. Revelo, and O.A.J. Orocio. 2010. The Effect on Coastal Vegetation of Trampling on a Parabolic Dune. Journal of Aeolian Research. 2 (2): 105-111. DOI: [10.1016/j.aeolia.2010.03.001](https://www.sciencedirect.com/science/article/pii/S1875963710000042)
 
 
 ### Grants
