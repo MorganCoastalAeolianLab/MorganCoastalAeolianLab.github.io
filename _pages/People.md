@@ -21,7 +21,7 @@ Dr. Phillip Schmutz
 <br>
 
 ### Current Morgan Lab Students
-**Graduate Students**
+*Graduate Students*
 
 - Halie Wetherington
   - B.S.: University of West Florida, 2024
@@ -31,7 +31,7 @@ Dr. Phillip Schmutz
   - Research: Jordan's research will focus on the utilization of a thermal imagery UAV to map spatial and temporal flows of Submarine Groundwater Discharge (SGD).
 
 
-**Undergraduate Students**
+*Undergraduate Students*
 
 - Joe Agin
   - Research: Beach Wrack
@@ -39,7 +39,7 @@ Dr. Phillip Schmutz
 <br>
 
 ### Morgan Lab Alumni
-**Graduate Students**
+*Graduate Students*
 
 - Divina Cox
   - B.S.: University of the Ozark's, 2020
@@ -68,7 +68,7 @@ Dr. Phillip Schmutz
   - Now: Program Coordinator for Mark Scholars at UWF
 
 <br>
-**Undergraduate Students (Thesis)**
+*Undergraduate Students (Thesis)*
 
 - Liliana Blouin
   - B.S.: 2024
@@ -90,7 +90,7 @@ Dr. Phillip Schmutz
   - Now: Ph.D. student @ Florida Atlantic University 
 
 <br>
-**Undergraduate Students (Non-Thesis)**
+*Undergraduate Students (Non-Thesis)*
 
 - April Mendez
   - B.S.: 2022
